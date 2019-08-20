@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  display: flex;
+  padding: 12px;
+  justify-content: center;
+  margin: 0 0 36px;
+}
+
+li {
+  list-style: none;
+  color: black;
+  margin-right: 10px;
+}
+a {
+  text-decoration: none;
+  color: black
+}
